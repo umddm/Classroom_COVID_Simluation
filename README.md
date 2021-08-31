@@ -1,4 +1,4 @@
-# Classroom_COVID_Simluation
+# Classroom COVID Simluation
 
 This project used high-resolution observations of interaction to simulate infectious processes. 
 
